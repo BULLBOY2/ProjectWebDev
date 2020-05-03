@@ -8,7 +8,7 @@ using Microsoft.Extensions.Logging;
 using ProjectWebDev.Models;
 
 namespace ProjectWebDev.Controllers
-{
+{//Test commentaar om commit te testen.
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
