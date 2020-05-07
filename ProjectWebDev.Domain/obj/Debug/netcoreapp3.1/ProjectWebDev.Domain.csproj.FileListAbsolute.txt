@@ -1,0 +1,10 @@
+C:\Users\Jens Vandewatere\Desktop\ProjectWebDev-master\ProjectWebDev.Domain\bin\Debug\netcoreapp3.1\ProjectWebDev.Domain.deps.json
+C:\Users\Jens Vandewatere\Desktop\ProjectWebDev-master\ProjectWebDev.Domain\bin\Debug\netcoreapp3.1\ProjectWebDev.Domain.dll
+C:\Users\Jens Vandewatere\Desktop\ProjectWebDev-master\ProjectWebDev.Domain\obj\Debug\netcoreapp3.1\ProjectWebDev.Domain.csprojAssemblyReference.cache
+C:\Users\Jens Vandewatere\Desktop\ProjectWebDev-master\ProjectWebDev.Domain\obj\Debug\netcoreapp3.1\ProjectWebDev.Domain.AssemblyInfoInputs.cache
+C:\Users\Jens Vandewatere\Desktop\ProjectWebDev-master\ProjectWebDev.Domain\obj\Debug\netcoreapp3.1\ProjectWebDev.Domain.AssemblyInfo.cs
+C:\Users\Jens Vandewatere\Desktop\ProjectWebDev-master\ProjectWebDev.Domain\bin\Debug\netcoreapp3.1\ProjectWebDev.Domain.runtimeconfig.json
+C:\Users\Jens Vandewatere\Desktop\ProjectWebDev-master\ProjectWebDev.Domain\bin\Debug\netcoreapp3.1\ProjectWebDev.Domain.runtimeconfig.dev.json
+C:\Users\Jens Vandewatere\Desktop\ProjectWebDev-master\ProjectWebDev.Domain\bin\Debug\netcoreapp3.1\ProjectWebDev.Domain.pdb
+C:\Users\Jens Vandewatere\Desktop\ProjectWebDev-master\ProjectWebDev.Domain\obj\Debug\netcoreapp3.1\ProjectWebDev.Domain.dll
+C:\Users\Jens Vandewatere\Desktop\ProjectWebDev-master\ProjectWebDev.Domain\obj\Debug\netcoreapp3.1\ProjectWebDev.Domain.pdb
